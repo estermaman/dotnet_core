@@ -1,0 +1,29 @@
+## תוצרי בנייה של .NET
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+## קבצים ספציפיים ל-Visual Studio / Rider / VS Code
+.vs/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## תוצרי publish
+publish/
+*.publishsettings
+
+## קבצי הגדרות מקומיים (סודות, מחרוזות חיבור)
+appsettings.Local.json
+*.local.json
+
+## קבצי לוג
+*.log
+logs/
+
+## תעודות פיתוח של ASP.NET Core
+*.pfx
+*.p12
